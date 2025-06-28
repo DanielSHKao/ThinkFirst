@@ -4,7 +4,7 @@
 > arXiv preprint arXiv:2503.07503, 2025
 > 
 
-[Preprint](https://arxiv.org/pdf/2503.07503) | [Project page](https://cse.hkust.edu.hk/~skao/thinkfirst.html)
+[Preprint](https://arxiv.org/pdf/2503.07503) | [Project page](https://danielshkao.github.io/thinkfirst.html)
 
 ---
 Code is coming soon!
